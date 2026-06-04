@@ -69,7 +69,7 @@ int main() {
     vector<int> data = {9, -3, 5, 2, 6, 8, -6, 1, 3};
     int n = data.size();
 
-    cout << "Unsorted array: ";
+    cout << "Original array: ";
     printArray(data);
 
     // Call quickSort on the entire vector
