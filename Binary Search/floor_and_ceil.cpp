@@ -29,7 +29,7 @@ public:
         }
     }
 
-    return {floor, ceil};
+    return {floor, ceil};}
 };
 
 int main() {
