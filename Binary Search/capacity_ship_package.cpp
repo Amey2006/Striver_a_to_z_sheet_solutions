@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include<climits>
+using namespace std;
 class Solution {
 public:
     bool possible(vector<int>& weights, int mid, int days)
